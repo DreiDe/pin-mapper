@@ -1,0 +1,114 @@
+[
+    {
+        "source": "rst",
+        "target": "rst"
+    },
+    {
+        "source": "3v3",
+        "target": "3v3"
+    },
+    {
+        "source": "5v",
+        "target": "5v"
+    },
+    {
+        "source": "gnd",
+        "target": "gnd"
+    },
+    {
+        "source": "gnd",
+        "target": "gnd"
+    },
+    {
+        "source": "vin",
+        "target": "vin"
+    },
+    {
+        "source": "io02",
+        "target": "abort"
+    },
+    {
+        "source": "io04",
+        "target": "hold"
+    },
+    {
+        "source": "io36",
+        "target": "resume"
+    },
+    {
+        "source": "io34",
+        "target": "coolen"
+    },
+    {
+        "source": "io38",
+        "target": "sda"
+    },
+    {
+        "source": "io39",
+        "target": "scl"
+    },
+    {
+        "source": "rst",
+        "target": "aref"
+    },
+    {
+        "source": "gnd",
+        "target": "gnd"
+    },
+    {
+        "source": "io18",
+        "target": "spndir"
+    },
+    {
+        "source": "io19",
+        "target": "spnen"
+    },
+    {
+        "source": "io23",
+        "target": "z+"
+    },
+    {
+        "source": "io05",
+        "target": "y+"
+    },
+    {
+        "source": "io13",
+        "target": "x+"
+    },
+    {
+        "source": "io12",
+        "target": "en"
+    },
+    {
+        "source": "io14",
+        "target": "zdir"
+    },
+    {
+        "source": "io27",
+        "target": "ydir"
+    },
+    {
+        "source": "io16",
+        "target": "xdir"
+    },
+    {
+        "source": "io17",
+        "target": "zstep"
+    },
+    {
+        "source": "io25",
+        "target": "ystep"
+    },
+    {
+        "source": "io26",
+        "target": "xstep"
+    },
+    {
+        "source": "tx",
+        "target": "tx"
+    },
+    {
+        "source": "rx",
+        "target": "rx"
+    }
+]
